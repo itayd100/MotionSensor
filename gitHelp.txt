@@ -1,0 +1,6 @@
+1.change the file
+2. go to the lib in the terminal
+3. git status
+4. git add <File Name>
+5. git commit -m ‘The message of the change’
+6. git push --set-upstream https://github.com/itayd100/MotionSensor.git master
